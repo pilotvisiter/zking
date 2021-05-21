@@ -1,0 +1,3 @@
+pip install impyla   
+pip install pure-sasl
+pip install thrift_sasl
